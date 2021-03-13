@@ -19,7 +19,7 @@
     "nodemailer": "latest"
   },
   "engines": {
-    "node": "^15.0"
+    "node": "latest"
   },
   "bin": {
     "crontab-ui": "bin/crontab-ui.js",
