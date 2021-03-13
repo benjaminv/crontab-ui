@@ -19,7 +19,7 @@
     "nodemailer": "latest"
   },
   "engines": {
-    "node": "latest"
+    "node": "^15.0"
   },
   "bin": {
     "crontab-ui": "bin/crontab-ui.js",
@@ -27,7 +27,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/alseambusher/crontab-ui"
+    "url": "https://github.com/benjaminv/crontab-ui"
   },
   "keywords": [
     "Crontab",
